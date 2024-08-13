@@ -18,15 +18,15 @@
 <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesky0309&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bluesky0309&show_icons=true&locale=en&theme=chartreuse-dark&hide_title=true" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bluesky0309&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br><br>
 
 <!--   [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=stayForward09&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/stayForward09) -->
 <p align="center">
   <a>
-    <img height="120" width="150" src="https://github.com/bluesky0309/bluesky0309/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stayForward09&theme=dark&hide_border=true"/>
-    <img height="120" width="150" src="https://github.com/bluesky0309/bluesky0309/blob/main/right.png">
+    <img height="120" width="150" src="https://github.com/stayForward09/stayForward09/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluesky0309&theme=dark&hide_border=true"/>
+    <img height="120" width="150" src="https://github.com/stayForward09/stayForward09/blob/main/right.png">
   </a>
 </p>
 
