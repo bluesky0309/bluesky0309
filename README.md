@@ -7,9 +7,9 @@
 
 - 🌱 Major Experiences
 
-    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.
+    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS, Angular.
   
-    • Backend Development with Node.JS, GraphQL, Golang, .NET, Django.
+    • Backend Development with Node.JS, GraphQL, Golang, .NET, Django, Java.
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 <!-- <h3 align="left">Languages and Tools:</h3>
